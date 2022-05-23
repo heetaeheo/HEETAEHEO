@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heetaeheo)](https://github.com/heetaeheo/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heetaeheo)]
 
 <!--
 **heetaeheo/HEETAEHEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
